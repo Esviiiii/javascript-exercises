@@ -13,7 +13,7 @@ const repeatString = function(string, num) {
 
     return result;
 
-repeatString("hey", 3)
+repeatString("", 0)
 
 }
 
